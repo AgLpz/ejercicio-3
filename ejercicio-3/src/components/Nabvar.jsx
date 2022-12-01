@@ -11,7 +11,7 @@ export const Navbar = () => {
     </picture>
 
             <div className="btnContainer">
-            <a className="favButton" href="#">Ver favoritos 3</a>
+            <a className="favButton" href="#">U</a>
             </div>
         </div>
     )

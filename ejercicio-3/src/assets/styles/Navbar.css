@@ -1,0 +1,39 @@
+.navbarContainer{
+    display: flex;
+    height: 64px;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    align-items: center;
+    margin-bottom: 56px;
+}
+
+.imgContainer{
+    margin-left: 80px;
+}
+.btnContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+     width: 132px;                              /* tiene que ser 131px pero pienso solucionar a futuro */
+    height: 32px;
+    padding: 0px 24px;
+    
+    
+    
+}
+.btnContainer a {
+    font-size: 14px;
+    font-family: 'Inter';
+    align-items: center;
+    text-decoration: none;
+    line-height: 157.15%;
+    color: #000000;
+
+
+}
+.tdtLogo {
+width: 70.4px;
+height: 32px;
+}
+
