@@ -1,6 +1,5 @@
 import React from 'react'
 import tdtLogo from"../assets/tdtLogo.png"
-import "../assets/styles/Navbar.css"
 
 export const Navbar = () => {
     return (
